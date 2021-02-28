@@ -1,2 +1,3 @@
 1) Create Git Repository and perform all action on Repository
 2) Create Document with Screenshot.
+3) Create the branch , Merge the branch etc.
